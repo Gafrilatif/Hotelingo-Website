@@ -44,7 +44,6 @@ The system uses a database named `room_db` containing tables to store user and r
 4.  **Run:** Open your browser and navigate to `http://localhost/Hotelingo`.
 
 ## 📸 Screenshots
-*(Optional: Add screenshots of the Login Page, Room Selection, and Dashboard here)*
 
 ## 📄 License
 This project was submitted as a Quarter 4 Project for the **CCIT-FTUI** program (August 2023).
